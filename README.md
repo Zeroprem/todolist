@@ -4,7 +4,7 @@ First, run the development server:
 ```bash
 git clone https://github.com/Zeroprem/todolist.git
 ```
-h1 or you can download as zip
+or you can download as zip
 
 ```bash
 npm i
